@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+
+- Currently finishing up a Master of Science in Computer Science at Purdue University.
+- Interdisciplinary experience in health informatics and clinical research
+
 
 <!--
 **dmrodriqu/dmrodriqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

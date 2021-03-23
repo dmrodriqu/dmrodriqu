@@ -1,7 +1,10 @@
 ### About me
 
 - Currently finishing up a Master of Science in Computer Science at Purdue University.
-- Interdisciplinary experience in health informatics and clinical research
+- Focusing on explainable analyses for medical data.
+- Building a repertoire of experience across scientific domains (medicne, data science, and computer science) 
+- Data science competitor on Numer.ai
+- Blog coming soon at dmrodriqu.github.io
 
 
 <!--

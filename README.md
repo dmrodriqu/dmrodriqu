@@ -1,6 +1,5 @@
 ### About me
 
-- Currently finishing up a Master of Science in Computer Science at Purdue University.
 - Focusing on explainable analyses for medical data.
 - Building a repertoire of experience across scientific domains (medicne, data science, and computer science) 
 - Data science competitor on Numer.ai

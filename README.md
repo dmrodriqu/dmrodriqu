@@ -4,9 +4,12 @@
 - Building a repertoire of experience across scientific domains (medicne, data science, and computer science) 
 - Data science competitor on Numer.ai
 - Blog coming soon at dmrodriqu.github.io
+
 Work counterpart accounts where most of my work is:
-@dylan-kelahealth
-@dmrodriquez
+
+github.com/dylan-kelahealth
+
+github.com/dmrodriquez
 
 <!--
 **dmrodriqu/dmrodriqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

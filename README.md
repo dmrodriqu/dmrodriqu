@@ -1,14 +1,17 @@
 ### About me
 
+Where I've been:
+
+Los Angeles -> Chicago -> West Lafayette -> Boston
+
+What I'm doing/What I've done:
+- Building scalable AI/ML pipelines that automate the model lifecycle
 - Focusing on explainable analyses for medical data.
+- Helped with the launch of an FDA approved medical device.
 - Building a repertoire of experience across scientific domains (medicne, data science, and computer science) 
-- Data science competitor on Numer.ai
-- Blog coming soon at dmrodriqu.github.io
 
 Work counterpart accounts where most of my work is:
-
 github.com/dylan-kelahealth
-
 github.com/dmrodriquez
 
 <!--

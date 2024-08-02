@@ -11,7 +11,9 @@ What I'm doing/What I've done:
 - Building a repertoire of experience across scientific domains (medicne, data science, and computer science) 
 
 Work counterpart accounts where most of my work is:
+
 github.com/dylan-kelahealth
+
 github.com/dmrodriquez
 
 <!--

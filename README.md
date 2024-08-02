@@ -1,21 +1,23 @@
-### About me
+## About Me
 
-Where I've been:
+### Where I've Been
 
-Los Angeles -> Chicago -> West Lafayette -> Boston
+🌴 Los Angeles → 🎓🌆 Chicago → 🎓 West Lafayette → 🌟 Boston
 
-What I'm doing/What I've done:
-- Building scalable AI/ML pipelines that automate the model lifecycle
-- Focusing on explainable analyses for medical data.
-- Helped with the launch of an FDA approved medical device.
-- Building a repertoire of experience across scientific domains (medicne, data science, and computer science) 
+### What I'm Doing / What I've Done
 
-Work counterpart accounts where most of my work is:
+- 🚀 Building scalable AI/ML pipelines that automate the model lifecycle.
+- 🔍 Focusing on explainable analyses for medical data.
+- 🏥 Contributed to the launch of an FDA-approved medical device.
+- 🧪 Contributed to inflammatory bowel disease research.
 
-- github.com/dylan-kelahealth
+### Work Counterpart Accounts
 
-- github.com/dmrodriquez
+- [GitHub - KelaHealth](https://github.com/dylan-kelahealth)
+- [GitHub - Iterative Health](https://github.com/dmrodriquez)
 
+### Published Articles
+[Google Scholar](https://scholar.google.com/citations?user=atkEta8AAAAJ&hl=en)
 <!--
 **dmrodriqu/dmrodriqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

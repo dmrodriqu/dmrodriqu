@@ -12,9 +12,9 @@ What I'm doing/What I've done:
 
 Work counterpart accounts where most of my work is:
 
-github.com/dylan-kelahealth
+- github.com/dylan-kelahealth
 
-github.com/dmrodriquez
+- github.com/dmrodriquez
 
 <!--
 **dmrodriqu/dmrodriqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

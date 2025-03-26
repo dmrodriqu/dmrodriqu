@@ -2,7 +2,7 @@
 
 ### Where I've Been
 
-🌴 Los Angeles → 🎓🌆 Chicago → 🎓 West Lafayette → 🌟 Boston
+🌴 Los Angeles → 🎓🌆 Chicago → 🎓 West Lafayette → 🌟 Boston -> 🇩🇪 Heidelberg, Germany
 
 ### What I'm Doing / What I've Done
 

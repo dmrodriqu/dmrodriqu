@@ -15,6 +15,7 @@
 
 - [GitHub - KelaHealth](https://github.com/dylan-kelahealth)
 - [GitHub - Iterative Health](https://github.com/dmrodriquez)
+- [GitHub - Aleph Alpha Research](https://github.com/dylan-rodriquez)
 
 ### Published Articles
 [Google Scholar](https://scholar.google.com/citations?user=atkEta8AAAAJ&hl=en)
